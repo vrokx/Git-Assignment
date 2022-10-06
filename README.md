@@ -1,2 +1,2 @@
 # fresherbatch-sep22
-Git Assignmens
+Git Assignments
