@@ -1,3 +1,3 @@
-This folder contains all the files of asignments.
+This folder contains all the files of assignments.
 
-Some changes.
+Added html file in Assignments.
