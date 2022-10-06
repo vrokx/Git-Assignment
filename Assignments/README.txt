@@ -1,3 +1,5 @@
 This folder contains all the files of assignments.
 
-Added html file in Assignments.
+ADDED HTML FILE in ASSIGNMENTS.
+
+ADDED CSS FILE in ASSIGNMENTS.
